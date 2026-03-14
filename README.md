@@ -1,4 +1,4 @@
-# **Application-Specific Access Policies Using Zscaler Private Access (ZPA) **
+# Application-Specific Access Policies Using Zscaler Private Access (ZPA) 
 
 ## Introduction
 
